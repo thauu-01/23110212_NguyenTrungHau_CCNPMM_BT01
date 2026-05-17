@@ -1,4 +1,4 @@
-BÀI TẬP CÁ NHÂN LẬP TRÌNH WEB
+BÀI TẬP CÁ NHÂN CÁC CÔNG NGHỆ PHẦN MỀM MỚI
 
 Bài tập 01: Thực hiện CRUD với Express.js – Sequelize - MySql
 
